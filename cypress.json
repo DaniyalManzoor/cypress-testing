@@ -1,0 +1,16 @@
+{
+  "watchForFileChanges": true,
+  "responseTimeout": 60000,
+  "screenshotOnRunFailure": false,
+  "video": false,
+  "baseUrl": "https://opensource-demo.orangehrmlive.com",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "code": false,
+    "overwrite": false,
+    "reportFilename": "10-pu-report",
+    "autoOpen": true,
+    "charts": true,
+    "reportDir": ""
+  }
+}
